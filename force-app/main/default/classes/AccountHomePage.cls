@@ -18,6 +18,7 @@ public class AccountHomePage {
             email1.setsenderDisplayname('KUMAR');
             messaging.Email[] email=new messaging.Email[]{email1};
                 messaging.sendemail(email);
+				system.debug('tetstst');
             return new pagereference('/apex/test11?id='+acc.id);
         }
     }
