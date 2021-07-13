@@ -7,8 +7,6 @@ public class AccHandler {
 
 	system.debug('statement 1');
 	system.debug('statement  2');
-	
-   
    }
 
 }
