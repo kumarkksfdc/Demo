@@ -14,10 +14,8 @@ public class AccHandler {
             system.debug('statement 2 updated form mar branch...');
             
             }
-
-            public static void method4(){
+         public static void method4(){
                system.debug('statement 1');
                system.debug('statement 2 updated form mar branch...');
                }
-   
 }
